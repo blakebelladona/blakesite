@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	color:green;
+}
+p id="11" {
+	color:purple;
+}
+.main {
+	color:green; align-content:center;
+}
